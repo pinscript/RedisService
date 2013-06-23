@@ -1,5 +1,7 @@
 What?
 ============
+Do you always forget to start the redis server when booting your computer? Are you annoyed by that unnecessary console window
+taking up valuable taskbar space?
 
 RedisService creates a Windows Service that wraps redis-server.exe.
 This means that redis-server.exe is ran under LOCAL SYSTEM and no console window needs to be open. Redis-server.exe is now also started automatically.
