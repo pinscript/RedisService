@@ -16,4 +16,4 @@ How?
 
 That's it?
 ============
-Yep. Note that this is pretty much thrown together in 15 minutes. I won't guarantee that it's bug-free. Please report any bugs you may find.
+Yep. Note that this is pretty much thrown together in 15 minutes. It's a work in progress. I won't guarantee that it's bug-free. Please report any bugs you may find.
