@@ -9,7 +9,7 @@ This means that redis-server.exe is ran under LOCAL SYSTEM and no console window
 How?
 ============
 
-1. Clone and build the project.
+1. Download the latest release (https://github.com/alexandernyquist/RedisService/releases) or clone and build the project.
 2. Set the path to your redis-server.exe in App.config.
 3. Install the service by invoking `RedisServer.exe install`.
 4. Start the service by invoking `net start RedisServer`.
